@@ -20660,6 +20660,8 @@
 2602:81a:6000::,2602:81a:600f:ffff:ffff:ffff:ffff:ffff,US
 2602:81a:7000::,2602:81a:70ff:ffff:ffff:ffff:ffff:ffff,US
 2602:81a:8000::,2602:81a:800f:ffff:ffff:ffff:ffff:ffff,GD
+2602:f7be::,2602:f7be:fff:ffff:ffff:ffff:ffff:ffff,US
+2602:f7bf::,2602:f7bf:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f7c0::,2602:f7c0:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:f7c1::,2602:f7c1:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:f7c2::,2602:f7c2:fff:ffff:ffff:ffff:ffff:ffff,CA
